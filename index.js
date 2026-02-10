@@ -1,2 +1,2 @@
 let nome = "Alex";
-console.log(nome);
+console.log(nome + " é um ótimo programador!");
